@@ -1,0 +1,36 @@
+Core/Src/Source/FastMathFunctions/FastMathFunctionsF16.o: \
+ ../Core/Src/Source/FastMathFunctions/FastMathFunctionsF16.c \
+ ../Core/Src/Source/FastMathFunctions/arm_vexp_f16.c \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/PrivateInclude/arm_compiler_specific.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/fast_math_functions_f16.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/arm_math_types_f16.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/arm_math_types.h \
+ ../Drivers/CMSIS/Include/cmsis_compiler.h \
+ ../Drivers/CMSIS/Include/cmsis_gcc.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/arm_math_memory.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/none.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/arm_math_types.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/utils.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/fast_math_functions.h \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/basic_math_functions.h \
+ ../Core/Src/Source/FastMathFunctions/arm_vlog_f16.c \
+ C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/support_functions_f16.h \
+ ../Core/Src/Source/FastMathFunctions/arm_vinverse_f16.c \
+ ../Core/Src/Source/FastMathFunctions/arm_atan2_f16.c
+../Core/Src/Source/FastMathFunctions/arm_vexp_f16.c:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/PrivateInclude/arm_compiler_specific.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/fast_math_functions_f16.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/arm_math_types_f16.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/arm_math_types.h:
+../Drivers/CMSIS/Include/cmsis_compiler.h:
+../Drivers/CMSIS/Include/cmsis_gcc.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/arm_math_memory.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/none.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/arm_math_types.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/utils.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/fast_math_functions.h:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/basic_math_functions.h:
+../Core/Src/Source/FastMathFunctions/arm_vlog_f16.c:
+C:/Users/bonfi/Downloads/STM_Projects/DSP_Trial/Core/Inc/Include/dsp/support_functions_f16.h:
+../Core/Src/Source/FastMathFunctions/arm_vinverse_f16.c:
+../Core/Src/Source/FastMathFunctions/arm_atan2_f16.c:
