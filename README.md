@@ -1,1 +1,1 @@
-# Guitar-tuner-w-STM32
+# Guitar-tuner-w/STM32
